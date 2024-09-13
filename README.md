@@ -50,7 +50,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
    streamlit run main.py
   ```
 
-[2-demo-video.webm](https://github.com/gunarakulangunaretnam/language-translator-bot/assets/45822509/86a26bf0-0500-42e1-a626-497084cc7772)
+[2-demo-video.webm](https://github.com/ankitkushwaha90/language-translator-bot/assets/45822509/86a26bf0-0500-42e1-a626-497084cc7772)
 
 # Contact
 
@@ -60,7 +60,7 @@ A voice recognition-based tool for translating languages in real-time. This tool
 
 ### Social Media:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunarakulangunaretnam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gunarakulangunaretnam](https://www.linkedin.com/in/ankit-kushwaha-013647259/))
 [![Facebook](https://img.shields.io/badge/-Facebook-196dcc?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gunarakulangunaretnam)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-07a647?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94740001141?text=WhatsApp%3A%20%2B9740001141)
 [![Instagram](https://img.shields.io/badge/-Instagram-bd3651?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gunarakulangunaretnam)
